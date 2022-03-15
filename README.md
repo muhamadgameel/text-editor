@@ -1,5 +1,5 @@
 # Text Editor
-Vim inspired text editor
+Modal text editor (Vim inspired)
 
 ## Current state
 Early prototype stage
